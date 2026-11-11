@@ -230,7 +230,7 @@ export function NewDealForm() {
                   autoComplete="off"
                   value={row.email}
                   onChange={(e) => setRow(index, { email: e.target.value })}
-                  placeholder="sam@example.com"
+                  placeholder="email@example.com"
                 />
               </div>
               <div className="field">
