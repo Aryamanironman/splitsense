@@ -10,3 +10,6 @@ out/
 tsconfig.tsbuildinfo
 .vercel
 videos/
+
+.vercel
+.env*

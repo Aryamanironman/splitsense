@@ -8,7 +8,7 @@ confirmed PayPal Payouts batch. The AG Grid ledger reconciles the whole deal.
 
 Built for the [PayPal AI Hackathon](https://paypalaihackathon.devpost.com/).
 
-**Live demo:** [ADD AFTER DEPLOY] · **Repo:** [ADD AFTER PUSH]
+**Live demo:** [splitsense-rho.vercel.app](https://splitsense-rho.vercel.app) · **Repo:** [github.com/Aryamanironman/splitsense](https://github.com/Aryamanironman/splitsense)
 
 ## What it does
 
